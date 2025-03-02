@@ -1,0 +1,3 @@
+Invoke-AzDataFactoryV2Pipeline -ResourceGroupName your_resource_group_name `
+    -DataFactoryName ras3-sff-adf-demo `
+    -PipelineName PL_SFF_Demo
